@@ -1,4 +1,4 @@
-const API_KEY = "16fd9083336cbcc90159539e2d26e3bb";
+const API_KEY = "198ad226705598f8a5b2147905f30fd3";
 
 export async function fetchPoster(tmdbType, tmdbId) {
   try {
